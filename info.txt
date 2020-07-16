@@ -1,0 +1,9 @@
+https://medium.com/@ahmed.nafies/fastapi-with-sqlalchemy-postgresql-and-alembic-and-of-course-docker-f2b7411ee396
+
+had to use: pip3 install pipenv==2018.11.26
+
+pipenv run alembic init alembic
+
+
+
+
